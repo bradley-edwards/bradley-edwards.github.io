@@ -1,3 +1,36 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@bradley-edwards 
+Atlas7
+/
+atlas7.github.io
+0
+2
+3
+Code
+Issues
+Pull requests
+2
+Actions
+Projects
+Wiki
+Security
+Insights
+atlas7.github.io/_sass/_style.scss
+@jarrekk
+jarrekk edit primary button color
+…
+Latest commit cf702e8 on Sep 5, 2017
+ History
+ 1 contributor
+2816 lines (2463 sloc)  43.5 KB
+  
 .landing-page .carousel-caption {
   h1, p {
     text-transform: uppercase;
@@ -110,7 +143,7 @@ h3, h4, h5 {
 }
 
 .nav > li.active {
-  border-left: 4px solid #0E6305;
+  border-left: 4px solid #3385FF;
   background: #293846;
 }
 
@@ -153,15 +186,15 @@ h3, h4, h5 {
 }
 
 .navbar-default .landing_link a {
-  background: #0E6305;
+  background: #3385FF;
   color: #fff;
   &:hover {
-    background: #0E6305 !important;
+    background: #3385FF !important;
     color: #fff;
   }
   span.label {
     background: #fff;
-    color: #0E6305;
+    color: #3385FF;
   }
 }
 
@@ -227,14 +260,14 @@ body.canvas-menu .nav-header {
     a {
       &:focus, &:hover {
         background: #fff;
-        color: #0E6305;
+        color: #3385FF;
       }
     }
     &.active {
       background: #fff;
       border: none;
       > a {
-        color: #0E6305;
+        color: #3385FF;
       }
     }
   }
@@ -256,7 +289,7 @@ body.canvas-menu .nav-header {
 }
 
 .top-navigation .navbar-brand {
-  background: #0E6305;
+  background: #3385FF;
   color: #fff;
   padding: 15px 25px;
 }
@@ -305,7 +338,7 @@ body.canvas-menu .nav-header {
 }
 
 .navbar-toggle {
-  background-color: #0E6305;
+  background-color: #3385FF;
   color: #fff;
   padding: 6px 12px;
   font-size: 14px;
@@ -349,7 +382,7 @@ button.dim {
 }
 
 .btn-primary.btn-outline {
-  color: #0E6305;
+  color: #3385FF;
 }
 
 .btn-success.btn-outline {
@@ -369,8 +402,8 @@ button.dim {
 }
 
 .btn-primary {
-  background-color: #0E6305;
-  border-color: #0E6305;
+  background-color: #3385FF;
+  border-color: #3385FF;
   color: #FFF;
   &.active {
     background-color: #0073B1;
@@ -593,7 +626,7 @@ button.dim {
 .btn-link {
   color: inherit;
   &.active, &:active, &:focus, &:hover {
-    color: #0E6305;
+    color: #3385FF;
     text-decoration: none;
   }
   &.active[disabled] {
@@ -760,7 +793,7 @@ button.dim:active:before {
 }
 
 .label-primary {
-  background-color: #0E6305;
+  background-color: #3385FF;
   color: #FFF;
 }
 
@@ -862,12 +895,12 @@ button.dim:active:before {
   transition: border-color .15s ease-in-out 0s, box-shadow .15s ease-in-out 0s;
   font-size: 14px;
   &:focus {
-    border-color: #0E6305 !important;
+    border-color: #3385FF !important;
   }
 }
 
 .has-success .form-control {
-  border-color: #0E6305;
+  border-color: #3385FF;
 }
 
 .has-warning .form-control {
@@ -879,7 +912,7 @@ button.dim:active:before {
 }
 
 .has-success .control-label {
-  color: #0E6305;
+  color: #3385FF;
 }
 
 .has-warning .control-label {
@@ -1143,7 +1176,7 @@ label.error {
 }
 
 .vertical-date small {
-  color: #0E6305;
+  color: #3385FF;
   font-weight: 400;
 }
 
@@ -1214,7 +1247,7 @@ label.error {
 }
 
 .slick-next:before, .slick-prev:before {
-  color: #0E6305 !important;
+  color: #3385FF !important;
 }
 
 body {
@@ -1430,12 +1463,12 @@ code {
 }
 
 .navy-bg {
-  background-color: #0E6305;
+  background-color: #3385FF;
   color: #fff;
 }
 
 .panel-primary {
-  border-color: #0E6305;
+  border-color: #3385FF;
 }
 
 .panel-success {
@@ -1455,7 +1488,7 @@ code {
 }
 
 .text-navy {
-  color: #0E6305;
+  color: #3385FF;
 }
 
 .text-primary {
@@ -1726,7 +1759,7 @@ ul.clear-list:first-child {
   }
   a {
     .text-navy {
-      color: #0E6305;
+      color: #3385FF;
     }
     .text-primary {
       color: #1c84c6;
@@ -1805,7 +1838,7 @@ ul.clear-list:first-child {
   a {
     color: inherit;
     &:hover {
-      color: #0E6305;
+      color: #3385FF;
     }
   }
 }
@@ -1964,7 +1997,7 @@ ul.clear-list:first-child {
   text-align: center;
   font-weight: 600;
   a {
-    color: #0E6305;
+    color: #3385FF;
     font-weight: 600;
   }
 }
@@ -1988,7 +2021,7 @@ ul.clear-list:first-child {
     font-size: 12px;
     margin-right: 10px;
     &:hover {
-      color: #0E6305;
+      color: #3385FF;
     }
   }
 }
@@ -1998,7 +2031,7 @@ ul.clear-list:first-child {
   font-size: 38px;
   color: #e8e9ea;
   &.active {
-    color: #0E6305;
+    color: #3385FF;
   }
 }
 
@@ -2355,21 +2388,21 @@ body {
 
 .landing-page {
   span.navy {
-    color: #0E6305;
+    color: #3385FF;
   }
   p.text-color {
     color: #676a6c;
   }
   a.navy-link {
-    color: #0E6305;
+    color: #3385FF;
     text-decoration: none;
     &:hover {
-      color: #0E6305;
+      color: #3385FF;
     }
   }
   section p {
-    color: #6e6e6e;
-    font-size: 15px;
+    color: #aeaeae;
+    font-size: 13px;
   }
   h1 {
     margin-top: 10px;
@@ -2380,7 +2413,7 @@ body {
     width: 60px;
     height: 1px;
     margin: 60px auto 0;
-    border-bottom: 2px solid #0E6305;
+    border-bottom: 2px solid #3385FF;
   }
   .navbar-wrapper {
     position: fixed;
@@ -2424,16 +2457,16 @@ body {
       .active > a {
         background: 0 0;
         color: #fff;
-        border-top: 6px solid #0E6305;
+        border-top: 6px solid #3385FF;
         &:hover {
           background: 0 0;
           color: #fff;
-          border-top: 6px solid #0E6305;
+          border-top: 6px solid #3385FF;
         }
       }
       li > a {
         &:focus, &:hover {
-          color: #0E6305;
+          color: #3385FF;
           background: inherit;
         }
       }
@@ -2448,14 +2481,14 @@ body {
     }
     .navbar-brand {
       &:focus, &:hover {
-        background: #0E6305;
+        background: #3385FF;
         color: #fff;
       }
       color: #fff;
       height: auto;
       display: block;
       font-size: 14px;
-      background: #0E6305;
+      background: #3385FF;
       padding: 15px 20px;
       border-radius: 0 0 5px 5px;
       font-weight: 700;
@@ -2465,7 +2498,7 @@ body {
   .navbar-scroll.navbar-default .nav li a {
     color: #676a6c;
     &:hover {
-      color: #0E6305;
+      color: #3385FF;
     }
   }
   .navbar-wrapper .navbar.navbar-scroll {
@@ -2604,7 +2637,7 @@ body {
   }
   .features {
     small {
-      color: #0E6305;
+      color: #3385FF;
     }
     h2 {
       font-size: 18px;
@@ -2612,12 +2645,12 @@ body {
     }
   }
   .features-icon {
-    color: #0E6305;
+    color: #3385FF;
     font-size: 40px;
   }
   .navy-section {
     margin-top: 60px;
-    background: #0E6305;
+    background: #3385FF;
     color: #fff;
     padding: 20px 0;
   }
@@ -2632,7 +2665,7 @@ body {
     }
   }
   .social-icon a {
-    background: #0E6305;
+    background: #3385FF;
     color: #fff;
     padding: 4px 8px;
     height: 28px;
@@ -2640,7 +2673,7 @@ body {
     display: block;
     border-radius: 50px;
     &:hover {
-      background: #0E6305;
+      background: #3385FF;
     }
   }
   .img-small {
@@ -2654,7 +2687,7 @@ body {
   .testimonials {
     padding-top: 80px;
     padding-bottom: 90px;
-    background-color: #0E6305;
+    background-color: #3385FF;
     background-image: url(../assets/img/landing/avatar_all.png);
   }
   .contact {
@@ -2685,12 +2718,12 @@ body {
     color: #fff;
   }
   .btn-primary {
-    background-color: #0E6305;
-    border-color: #0E6305;
+    background-color: #3385FF;
+    border-color: #3385FF;
     color: #FFF;
     &.active, &:active, &:focus, &:hover {
-      background-color: #0E6305;
-      border-color: #0E6305;
+      background-color: #3385FF;
+      border-color: #3385FF;
       color: #FFF;
     }
     padding: 10px 20px;
@@ -2767,7 +2800,7 @@ body {
       .nav li a {
         color: #676a6c;
         &:hover {
-          color: #0E6305;
+          color: #3385FF;
         }
       }
     }
