@@ -1,7 +1,7 @@
 {
-  "name": "bradley-edwards",
+  "name": "Jalpc",
   "version": "1.1.1",
-  "description": "npm config file for bradley-edwards",
+  "description": "npm config file for Jalpc",
   "main": "",
   "scripts": {
     "build": "node build/build.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bradley-edwards/bradley-edwards.github.io.git"
+    "url": "git+https://github.com/jarrekk/Jalpc.git"
   },
   "author": "Kun Jia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bradley-edwards/bradley-edwards.github.io/issues"
+    "url": "https://github.com/jarrekk/Jalpc/issues"
   },
-  "homepage": "https://github.com/bradley-edwards/bradley-edwards.github.io#readme",
+  "homepage": "https://github.com/jarrekk/Jalpc#readme",
   "dependencies": {
     "animate.css": "^3.5.2",
     "bootstrap": "^3.3.6",
