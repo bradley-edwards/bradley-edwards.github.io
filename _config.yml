@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title:
+title: Bradley Edwards
 description: Jack's blog,use Jekyll and github pages.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 #baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hey, I'm Brad, and I'm a developer - that is, I enjoy building things. I write code and am passionate about exploring new technologies, though in my free time I enjoy staying active through cycling, running, and weightlifting. I also maintain a blog where you can find a collection of interesting tidbits spanning a variety of topics that I find interesting. I also love conversations, so please get in touch through any of the links in my header! # Describe yourself.
+  desc: Hey, I'm Brad, and I'm a developer - that is, I enjoy building things. I write code and am passionate about exploring new technologies, though in my free time I enjoy staying active through cycling, running, and weightlifting. I also maintain a blog where you can find a collection of interesting tidbits spanning a variety of topics that I find interesting. I love conversations, so please get in touch through any of the links above! # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
