@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv: http://bradley-edwards.github.io/resume  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: fa-dumbbell
+    - name: fa-bicycle
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: fa-bicycle
+    - name: fa-dumbbell
   desc: Hey, I'm Brad, and I'm a developer - that is, I enjoy building things. I write code and am passionate about exploring new technologies, though in my free time I enjoy staying active through cycling, running, and weightlifting. I also maintain a blog where you can find a collection of interesting tidbits spanning a variety of topics that I find interesting. I love conversations, so please get in touch through any of the links above! # Describe yourself.
 
 # comment
