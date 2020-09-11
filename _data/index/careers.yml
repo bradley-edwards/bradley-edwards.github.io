@@ -1,30 +1,52 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: BorgIQ
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: BorgIQ is currently a small team working on building an innovative automation platform. During my time, I was able to wear many hats, and I worked on product research, design, and implementation. This gave me a holistic view of the entire product development lifecycle - be sure to look out for BorgIQ's platform in the future!
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: January 2020
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Software Developer, Early Stage
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: IBM Canada
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: At IBM I designed and implemented an ETL process. This involved writing a design document outlining the requirements, specifications, and use cases of the customer, and relaying this information to an offshore team. We implemented the process using Automation Anywhere. I also had a neat experience working with the Skydio R1 drone, where, using OpenCV, Azure, and Power BI, I set up a Proof-Of-Concept warehouse inventory management system.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: January 2019
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Software Engineering Consultant, Microsoft Practice
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: XE Digital
+    i18n: company_c
+  desc:
+    detail: XE served as my introduction to production Node and React code. I spent a few months working on a shopify currency converter, which allows for online stores to seamlessly display prices to international customers. This opportunity allowed for me to work with a great team of designers, product managers, and developers. I was also introduced to AWS and Alexa Skills, where I worked on creating a skill that provides historic exchange rates.
+    i18n: company_c_desc
+  date:
+    detail: May 2018
+    i18n: company_c_date
+  job:
+    detail: Application Developer, Systems Team
+    i18n: company_c_job
+  icon: fa-plus-square
+
+  - name:
+    detail: Other Experience
+    i18n: company_d
+  desc:
+    detail: In highschool I tutored students in Unity, PHP, and SQL. I also ran prep sessions for the CCC (Canadian Computing Competition), where we discussed algorithms and problem-solving strategies that are prominent in competitive programming. I enjoy learning through case competitions and hackathons, and have competed in over 15 collectively to date.
+    i18n: company_d_desc
   icon: fa-plus-square

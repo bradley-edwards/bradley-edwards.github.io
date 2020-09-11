@@ -1,22 +1,35 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+## SAMPLE PROJECT
+# - name: Jalpc
+#   i18n: jalpc
+#   gh_user: jarrekk
+#   repo: Jalpc
+#   img: /static/assets/img/landing/jekyll.png
+#   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
-  url: https://google.com
+- name: DevLink
+  url: https://stark-temple-82550.herokuapp.com/
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: DevLink is a social media platform that allows developers to connect, create profiles, post, and comment. The backend was built on Node.js, using Express for routing, Passport for authentication, and a MongoDB database. The frontend was then built using React, Redux, and bootstrap. I also gained experience with deploying through Heroku.
+
+- name: Banana Ball Blast
+  url: 
+  img: /static/assets/img/landing/google.png
+  desc: Inspired by Super Monkey Ball, I created this game using the Unity Engine. Please feel free to try it out, or reach out to me if you'd like an apk for an Android version!
+
+- name: Euchre
+  url: 
+  img: /static/assets/img/landing/google.png
+  desc: This cli-based interpretation of the classic card game was my first mid-sized C++ object-oriented project, in which I worked with two peers. Strategic design allowed for a clean and relatively straightforward implementation, earning us a grade of 100% on the project.
+
+- name: BudgetBuddy
+  url: https://devpost.com/software/budgetbuddy-xgkt73
+  img: /static/assets/img/landing/google.png
+  desc: I worked with a team of four at Hack the North to develop an Android application that enables users to more easily manage their budget.The app is proof-of-concept and works with the TD Da Vinci API to simulate virtual users, as well as the Yelp Fusion API to make recommendations on shopping destinations that better suit customers' budgets.
+
+- name: Machine Earnings
+  url: https://www.devpost.com/software/machine-earnings
+  img: /static/assets/img/landing/google.png
+  desc: I created this tool at Hack the North 2019, to test if current exchange rates show any relationship to the tonality of financial news articles written in the country or countries that the currency belongs to. Written in Python, News APIs were used to aggregate news articles, using a search parameter relating to country of origin. Articles were then filtered down to financial and business news, using Google's Natural Language Processing API. Sentiment analysis was conducted on the remaining articles, assigning each article a score. Scores were aggregated by date, and the difference of the scores between two countries was taken, and compared to the historic exchange rate. Unfortunately, no obvious trends were present, and a rolling means regression conducted using Pandas did not prove to be of value. Plotly was used to graph the relationship and provide a visualization. 
