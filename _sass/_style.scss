@@ -2507,7 +2507,7 @@ body {
   .header-back {
     height: 470px;
     width: 100%;
-    background-position: 50% 0;
+    background-position: 50% 42%;
     background-repeat:  no-repeat;
   }
   .carousel {
@@ -2798,7 +2798,8 @@ body {
     .navbar-default .navbar-nav > .active > a {
       color: inherit;
       &:hover {
-        color: inherit;
+        //color: inherit;
+        text-decoration: underline;
       }
     }
     .carousel-control {
