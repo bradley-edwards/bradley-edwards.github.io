@@ -14,6 +14,11 @@
   img: /static/assets/img/landing/google.png
   desc: DevLink is a social media platform that allows developers to connect, create profiles, post, and comment. The backend was built on Node.js, using Express for routing, Passport for authentication, and a MongoDB database. The frontend was then built using React, Redux, and bootstrap. I also gained experience with deploying through Heroku.
 
+- name: BudgetBuddy
+  url: https://devpost.com/software/budgetbuddy-xgkt73
+  img: /static/assets/img/landing/google.png
+  desc: I worked with a team of four at Hack the North to develop an Android application that enables users to more easily manage their budget.The app is proof-of-concept and works with the TD Da Vinci API to simulate virtual users, as well as the Yelp Fusion API to make recommendations on shopping destinations that better suit customers' budgets.
+
 - name: Banana Ball Blast
   url: 
   img: /static/assets/img/landing/google.png
@@ -22,12 +27,7 @@
 - name: Euchre
   url: 
   img: /static/assets/img/landing/google.png
-  desc: This cli-based interpretation of the classic card game was my first mid-sized C++ object-oriented project, in which I worked with two peers. Strategic design allowed for a clean and relatively straightforward implementation, earning us a grade of 100% on the project.
-
-- name: BudgetBuddy
-  url: https://devpost.com/software/budgetbuddy-xgkt73
-  img: /static/assets/img/landing/google.png
-  desc: I worked with a team of four at Hack the North to develop an Android application that enables users to more easily manage their budget.The app is proof-of-concept and works with the TD Da Vinci API to simulate virtual users, as well as the Yelp Fusion API to make recommendations on shopping destinations that better suit customers' budgets.
+  desc: This CLI-based interpretation of the card game was my first C++ object-oriented project, in which I worked with two peers. Strategic design allowed for a clean and elegant implementation, earning us a grade of 100%.
 
 - name: Machine Earnings
   url: https://www.devpost.com/software/machine-earnings

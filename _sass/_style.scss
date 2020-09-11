@@ -2656,7 +2656,7 @@ body {
     padding-top: 80px;
     padding-bottom: 90px;
     background-color: #0E6305;
-    background-image: url(../assets/img/landing/avatar_all.png);
+    background-image: url(../assets/img/landing/avatar_all.jpg);
   }
   .contact {
     background-image: url(../assets/img/landing/word_map.png);
@@ -2768,7 +2768,8 @@ body {
       .nav li a {
         color: #676a6c;
         &:hover {
-          color: #0E6305;
+          //color: #0E6305;
+          text-decoration: underline;
         }
       }
     }
@@ -2798,8 +2799,7 @@ body {
     .navbar-default .navbar-nav > .active > a {
       color: inherit;
       &:hover {
-        //color: inherit;
-        text-decoration: underline;
+        color: inherit;
       }
     }
     .carousel-control {
