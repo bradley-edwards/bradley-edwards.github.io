@@ -16,20 +16,20 @@
 
 - name: BudgetBuddy
   url: https://devpost.com/software/budgetbuddy-xgkt73
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/budgetbuddy.png
   desc: I worked with a team of four at Hack the North to develop an Android application that enables users to more easily manage their budget.The app is proof-of-concept and works with the TD Da Vinci API to simulate virtual users, as well as the Yelp Fusion API to make recommendations on shopping destinations that better suit customers' budgets.
 
 - name: Banana Ball Blast
   url: 
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/banana-ball-blast.png
   desc: Inspired by Super Monkey Ball, I created this game using the Unity Engine. Please feel free to try it out, or reach out to me if you'd like an apk for an Android version!
 
 - name: Euchre
   url: 
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/euchre.png
   desc: This CLI-based interpretation of the card game was my first C++ object-oriented project, in which I worked with two peers. Strategic design allowed for a clean and elegant implementation, earning us a grade of 100%.
 
 - name: Machine Earnings
   url: https://www.devpost.com/software/machine-earnings
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/machine-earnings.png
   desc: I created this tool at Hack the North 2019, to test if current exchange rates show any relationship to the tonality of financial news articles written in the country or countries that the currency belongs to. Written in Python, News APIs were used to aggregate news articles, using a search parameter relating to country of origin. Articles were then filtered down to financial and business news, using Google's Natural Language Processing API. Sentiment analysis was conducted on the remaining articles, assigning each article a score. Scores were aggregated by date, and the difference of the scores between two countries was taken, and compared to the historic exchange rate. Unfortunately, no obvious trends were present, and a rolling means regression conducted using Pandas did not prove to be of value. Plotly was used to graph the relationship and provide a visualization. 
