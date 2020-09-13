@@ -11,7 +11,7 @@
 
 - name: DevLink
   url: https://stark-temple-82550.herokuapp.com/
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/devlink.png
   desc: DevLink is a social media platform that allows developers to connect, create profiles, post, and comment. The backend was built on Node.js, using Express for routing, Passport for authentication, and a MongoDB database. The frontend was then built using React, Redux, and bootstrap. I also gained experience with deploying through Heroku.
 
 - name: BudgetBuddy
