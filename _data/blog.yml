@@ -6,11 +6,11 @@
 - name: Product
   href: /product/
 
-- name: Software Development
-  href: /software-development/
+- name: Software
+  href: /software/
 
-- name: Probability and Statistics
-  href: /probability-and-statistics/
+- name: Probability
+  href: /probability/
 
 - name: Fitness
   href: /fitness/

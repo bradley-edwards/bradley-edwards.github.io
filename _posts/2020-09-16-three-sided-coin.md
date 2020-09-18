@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The three-way coin toss"
+title:  "Three-Way Coin Toss"
 date:   2020-09-16
 desc: "Designing a coin with equal probability of landing on any three faces"
-keywords: "Probability, Design"
-categories: [Probability & Statistics]
-tags: [Probability,Design]
+keywords: "Probability, Physics"
+categories: [Probability]
+tags: [Probability, Physics]
 icon: icon-coin
 ---
 A [wikipedia page on coin flipping](https://en.wikipedia.org/wiki/Coin_flipping#:~:text=However%2C%20even%20on%20a%20flat,their%20edges%20unsupported%20if%20flipped.) proposes mutliple methods for three-way coin flips. However, these all involve either multiple coins, or flipping a singular coin multiple times - both solutions are begging to be optimized. 
