@@ -4,7 +4,7 @@ title:  "Future Applications of Autonomous Drones"
 date:   2020-09-16
 desc: "Thoughts on where drones will be used in five to ten years time"
 keywords: "Drones, Software, Technology"
-categories: [Technology]
+categories: [Product]
 tags: [Technology, Physics]
 icon: icon-drone
 ---
